@@ -1,4 +1,4 @@
-/*
+  /*
  * Globals
  */
 
@@ -13,7 +13,7 @@ a:hover {
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: #333;
+  color: crimson;
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
   border: .05rem solid #fff;
@@ -26,8 +26,7 @@ a:hover {
 
 html,
 body {
-  height: 100%;
-  background-color: #333;
+  background-color: indigo;
 }
 
 body {
@@ -104,3 +103,4 @@ body {
 .mastfoot {
   color: rgba(71, 53, 18, 0.5);
 }
+  
