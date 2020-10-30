@@ -1,10 +1,4 @@
-body {
-    background-color: cornsilk;
-  }
-  h1 {
-color: maroon;
-margin-left: 60px;
-}
-p{
-  color:rgb(134, 24, 24)
-}
+
+.buttoncolor{
+  background-color: rgb(6, 6, 61);
+} 
